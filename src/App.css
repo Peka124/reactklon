@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+.login-div{
+  margin-top: 30px;
+}
+
+.login-fr{
+  margin-left: 810px;
+  margin-bottom: 15px;
+  width: 300px;
+}
+
+.pretrazi{
+  margin-top: 30px;
+  width: 400px;
+  margin-left: 760px;
+}
+
+.kn-div {
+  width: 800px;
+}
+
+.div-knjiga  {
+   display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 400px 400px 400px;
+    grid-row-gap: 300px;
+    grid-column-gap: 300px;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+
+
